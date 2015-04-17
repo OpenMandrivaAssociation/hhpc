@@ -8,6 +8,7 @@ Summary: Tool to hide the mouse pointer while it is inactive
 URL: https://github.com/aktau/hhpc
 License: MIT
 Group: System/X11
+BuildRequires: pkgconfig(x11)
 
 %description
 Tool to hide the mouse pointer while it is inactive
