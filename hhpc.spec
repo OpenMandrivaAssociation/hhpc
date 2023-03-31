@@ -2,7 +2,7 @@
 
 Name: hhpc
 Version: 1.0
-Release: 3
+Release: 4
 Source0: %{name}-%{version}.tar.xz
 Summary: Tool to hide the mouse pointer while it is inactive
 URL: https://github.com/aktau/hhpc
